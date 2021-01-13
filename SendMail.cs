@@ -38,7 +38,7 @@ namespace SendMail
                             TriggerBuilder.Create()
                                  .WithDailyTimeIntervalSchedule(a =>
                                       a.WithIntervalInHours(24)
-                                       .OnEveryDay().StartingDailyAt(TimeOfDay.HourAndMinuteOfDay(20, 15)))
+                                       .OnEveryDay().StartingDailyAt(TimeOfDay.HourAndMinuteOfDay(07, 36)))
                                 .Build())
                         );
                 });

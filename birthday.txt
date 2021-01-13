@@ -1,0 +1,32 @@
+HÜSEYİN ÖZCAN,12/01/1988,12/01/2019,b.turk@thy.com
+RÜSTEM YENİLMEZ,10/01/1994,02/12/2019,huseyin.ozcan@thy.com
+AHMET KAYMAZ,10/01/1978,01/08/2019,huseyin.ozcan@thy.com
+MUHAMMED ZAHİD UYSAL,17/01/1983,01/04/2015,huseyin.ozcan@thy.com
+RAMAZAN MEMİŞOĞLU,25/01/1996,04/03/2019,huseyin.ozcan@thy.com
+UTKU GÜREK,26/01/1997,02/12/2019,huseyin.ozcan@thy.com
+CEVRİYE SARIKAYA AVCI,30/01/1987,25/11/2019,huseyin.ozcan@thy.com
+BİLAL TÜRK,13/01/1993,20/11/2020,b.turk@thy.com
+ELİF SÖYLEMEZ,19/02/1992,08/05/2017,huseyin.ozcan@thy.com
+BURAK YILMAZ,02/03/1997,20/11/2020,huseyin.ozcan@thy.com
+ÖNDER GÜLER,21/03/1993,02/11/2020,huseyin.ozcan@thy.com
+SERHAT SUNTUR,12/04/1976,04/08/1998,huseyin.ozcan@thy.com
+MEHMET KORAL,01/05/1991,10/12/2014,huseyin.ozcan@thy.com
+AHMET PEKİRGE,03/05/1989,05/03/2018,huseyin.ozcan@thy.com
+RIDVAN ASAR,06/05/1994,11/02/2019,huseyin.ozcan@thy.com
+ELIF YARDIMCI,10/05/1989,01/04/2015,huseyin.ozcan@thy.com
+YAKUP YILDIRIM,10/05/1988,01/02/2019,huseyin.ozcan@thy.com
+MEHMET FATİH AKSU,08/06/1996,19/10/2020,huseyin.ozcan@thy.com
+SABRİ ÖZ,02/09/1983, 26.11.2019,huseyin.ozcan@thy.com
+MEHMET NAZİF MASMANACI,17/05/1990,05/08/2019,huseyin.ozcan@thy.com
+BATUHAN AYDOĞAN,16/07/1991,28/05/2018,huseyin.ozcan@thy.com
+YÜCEL ÖZER,27/07/1970,17/03/1997,huseyin.ozcan@thy.com
+EMİNE DEMİRCİ,15/08/1975,09/12/2019,huseyin.ozcan@thy.com
+ESRA ÇETİN,20/08/1989,10/12/2014,huseyin.ozcan@thy.com
+ALİ TANIRLAR,10/10/1981,05/03/2019,huseyin.ozcan@thy.com
+ELÇİN NUR DEMİRKOL ÖZTÜRK,27/10/1990,27/11/2019,huseyin.ozcan@thy.com
+OKAN AKTAŞ,11/11/1975,27/01/2020,huseyin.ozcan@thy.com
+FATİH KAR,20/11/1986,10/12/2014,huseyin.ozcan@thy.com
+LEYLA DURAN,25/11/1987,16/04/2018,huseyin.ozcan@thy.com
+EBUBEKİR SARICAOĞLU,09/12/1979,09/12/2019,huseyin.ozcan@thy.com
+AHMET ÇOŞKUN,18/12/1978,17/04/2007,huseyin.ozcan@thy.com
+MUSA BÜYÜKKABA,27/12/1981,28/09/2007,huseyin.ozcan@thy.com
